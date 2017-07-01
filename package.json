@@ -27,14 +27,15 @@
   "homepage": "https://github.com/scf4/lyricist#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "isomorphic-fetch": "^2.2.1",
     "lyricist": "^2.0.0",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^1.7.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
-    "babel-preset-env": "^1.5.2",
     "babel-jest": "^19.0.0",
     "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
     "dotenv": "^4.0.0",
     "jest": "^19.0.2",
     "rimraf": "^2.6.1"
